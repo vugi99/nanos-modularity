@@ -4,4 +4,6 @@
 
 ### For experienced developers
 
-## [Wiki](https://github.com/vugi99/nanos-modularity/wiki)
+### [Example Package](https://github.com/vugi99/nanos-sandbox-inventory)
+
+# [Wiki](https://github.com/vugi99/nanos-modularity/wiki)
