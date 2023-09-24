@@ -1,11 +1,11 @@
 # vault configurations
 [meta]
     # friendly name
-    title =                 "modularity"
+    title =                 "modularity-testing-suite"
     # contributors
     author =                "Voltaism"
     # version
-    version =               "0.2.0-dev"
+    version =               "0.1.0"
 
 # script configurations
 [script]
@@ -19,7 +19,7 @@
     compatibility_version = "1.57"
     # packages requirements
     packages_requirements = [
-                            
+                            "modularity",
     ]
     # asset packs requirements
     assets_requirements = [
